@@ -1,0 +1,32 @@
+
+/* Main */
+
+.div-TextoMain{
+    vertical-align: top;
+    padding-top: 100px;
+    padding-left: 400px;
+}
+.texto-Main1{
+    text-align: center;
+    margin: 0 auto;
+    color: #5884B1;
+    font-weight: 700;
+    font-size: 54px;
+    
+}
+.texto-Main2{
+    text-align: center;
+    margin: 0 auto;
+    color: #BD3274;
+    font-size: 17px;
+}
+
+.img-persona{
+    border: 4px solid #F0A83B;
+    border-radius: 400px;
+    width: 400px;
+    height: 400px;
+    margin-top: 20px;
+    margin-right: 150px;
+    
+}
