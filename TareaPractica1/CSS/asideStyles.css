@@ -1,0 +1,20 @@
+main, aside {
+    display: inline-flex;
+    flex-direction: column;
+    vertical-align: top;
+}
+aside{
+    width: 20%;
+}
+
+aside section{
+    margin: 20px 10px 20px 10px;
+}
+.titulo-aside{
+    background-color: #2F5779;
+}
+.titulo-aside p{
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
