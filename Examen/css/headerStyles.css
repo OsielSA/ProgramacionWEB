@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    border-top: 10px solid #d45665;
+}
+header{
+    text-align: center;
+    padding-top: 15px;
+}
+header nav{
+    text-align: center;
+    background-color: #ffde01;
+    padding: 0;
+}
+header nav ul{
+    padding: 10px;
+}
+header nav li{
+    display: inline;
+    font-weight: 800;
+    padding: 0 30px;
+}
+header button{
+    background-color: black;
+    color: white;
+    font-weight: 800;
+    border: none;
+    border-radius: 10%;
+    padding: 5px 30px;
+}

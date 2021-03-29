@@ -1,0 +1,20 @@
+footer{
+    border-top: 5px solid #cad852;
+    border-bottom: 15px solid #cad852;
+    text-align: center;
+    padding-top: 20px;
+    margin: 0;
+}
+footer img{
+    height: 40px;
+    margin: 10px 100px;
+}
+footer p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+footer span{
+    color: #9ed5d2;
+}
