@@ -1,4 +1,4 @@
-# clases-vue
+# proyecto-vue
 
 ## Project setup
 ```
